@@ -144,8 +144,10 @@ print(len(data["制作物名"]), len(data["材料"]), len(data["必要数"]))
 df = pd.DataFrame(data)
 
 # UI部分
-st.title("製造素材計算アプリ")
+st.title("製造素材計算")
+st.write("ROX用のマーチャント製造素材計算機です。")
 st.write("作りたい制作物を選択し、個数を入力してください。")
+st.write("良い感じに使ってみてください。")
 
 # 制作物選択
 selected_item = st.selectbox("制作物を選択", df["制作物名"])
