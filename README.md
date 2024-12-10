@@ -6,3 +6,7 @@
 https://seizoucount-rkcwfze8gknymczttssdsy.streamlit.app/
 
 試しに使ってみてください。
+
+今後の改良案
+現在製造だけだけど、精錬と調理もいれれたらいいな。
+他は特に考えてない。
