@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# 材料データをデータベース（ここではDataFrame）として定義
+# 材料データをデータベースに
 data = {
     "制作物名": [
         "赤ポーション*100",
