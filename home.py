@@ -2,7 +2,7 @@ import streamlit as st
 
 
 def app():
-    st.title("ホーム")
+    st.title("ご挨拶")
     st.write("はじめまして、ROXプレイヤーのみなさん")
     st.write("精錬や製造を行おうと思ったときに、")
     st.write("「必要個数はわかるんだけど素材数わからない」")
@@ -14,3 +14,6 @@ def app():
     st.markdown("[作成者のGitHub](https://github.com/toma4423)")
 
     st.write("使ってみた感想をいただけると喜びます。")
+
+
+# seizoucount-rkcwfze8gknymczttssdsy
