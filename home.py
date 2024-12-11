@@ -14,6 +14,3 @@ def app():
     st.markdown("[作成者のGitHub](https://github.com/toma4423)")
 
     st.write("使ってみた感想をいただけると喜びます。")
-
-
-# seizoucount-rkcwfze8gknymczttssdsy
